@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD:testing.txt
 This is a test file.
 
 
 
 aha
+=======
+This is a testing file.
+>>>>>>> change:test.txt
